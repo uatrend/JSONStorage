@@ -3,7 +3,5 @@
     "version": "1.0.3",
     "description": "A simple storage helper inspired by the redis api.",
     "homepage": "https://github.com/aheinze/JSONStorage",
-    "main": [
-        "storage.js"
-    ]
+    "main": "storage.js"
 }
